@@ -56,5 +56,5 @@ hyderabad.addEventListener("click", (e) => {
 })
 bhubaneswar.addEventListener("click", (e) => {
 	e.preventDefault()
-	getweathercity("bhubaneswar")
+	getweathercity("Bhubaneswar")
 })
